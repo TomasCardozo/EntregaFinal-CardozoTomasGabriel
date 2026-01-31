@@ -39,20 +39,25 @@ The goal of the project was to strengthen front-end logic and build a solid foun
 
 ## 📁 Project Structure
 
-/
+```
+.
 ├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── main.js
-└── assets/
+├── css
+│   └── styles.css
+├── js
+│   └── main.js
+└── assets
+```
 
 ---
 
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/TomasCardozo/EntregaFinal-CardozoTomasGabriel.git
+
+```
+git clone https://github.com/TomasCardozo/EntregaFinal-CardozoTomasGabriel.git
+```
 
 2. Open `index.html` in your browser  
    _(No additional setup required)_
