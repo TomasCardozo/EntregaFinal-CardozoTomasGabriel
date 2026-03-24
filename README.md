@@ -76,7 +76,7 @@ git clone https://github.com/TomasCardozo/EntregaFinal-CardozoTomasGabriel.git
 ## 👤 Author
 
 **Tomas Gabriel Cardozo**  
-Junior Software Developer | Systems Engineering Student
+Software Developer | Systems Engineering Student
 
 - GitHub: https://github.com/TomasCardozo
 - LinkedIn: https://www.linkedin.com/in/tomas-cardozo/
